@@ -1,0 +1,10 @@
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\MentorshipExceptions\bin\Debug\MentorshipExceptions.exe.config
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\MentorshipExceptions\obj\Debug\MentorshipExceptions.exe
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\MentorshipExceptions\obj\Debug\MentorshipExceptions.pdb
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\MentorshipExceptions\bin\Debug\MentorshipExceptions.exe
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\MentorshipExceptions\bin\Debug\MentorshipExceptions.pdb
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\MentorshipExceptions\bin\Debug\EntityFramework.dll
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\MentorshipExceptions\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\MentorshipExceptions\bin\Debug\EntityFramework.xml
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\MentorshipExceptions\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\MentorshipExceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache

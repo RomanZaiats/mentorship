@@ -1,0 +1,11 @@
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\Attributes\bin\Debug\Attributes.exe
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\Attributes\bin\Debug\Attributes.pdb
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\Attributes\obj\Debug\Attributes.exe
+C:\Users\Romax\Documents\Visual Studio 2015\Projects\MentorshipExceptions\Attributes\obj\Debug\Attributes.pdb
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Attributes\obj\Debug\Attributes.exe
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Attributes\obj\Debug\Attributes.pdb
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Attributes\bin\Debug\Attributes.exe
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Attributes\bin\Debug\Attributes.pdb
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Attributes\obj\Debug\Attributes.csprojResolveAssemblyReference.cache
