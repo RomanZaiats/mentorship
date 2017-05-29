@@ -11,37 +11,51 @@ namespace MentorshipExceptions
 {
 
     [Serializable]
-    public class UserNotFoundException : ApplicationException
+    public class AnimalNotFoundException : ApplicationException
     {
-        private string _userNotFoundName;
-        public string UserNotFoundName
+        public int notFoundId { get; set; }
+
+        public AnimalNotFoundException() { }
+
+        public AnimalNotFoundException(string message) : base(message) { }
+        public AnimalNotFoundException(string message, int id) : base(message)
         {
-            get
-            {
-                return _userNotFoundName;
-            }
-            set
-            {
-                _userNotFoundName = value;
-            }
+            notFoundId = id;
         }
 
-        public UserNotFoundException() { }
+        public AnimalNotFoundException(string message, Exception inner, int id) : base(message, inner) { notFoundId = id; }
 
-        public UserNotFoundException(string message) : base(message) { }
-
-        public UserNotFoundException(string message, Exception inner) : base(message, inner) { }
-
-        protected UserNotFoundException(SerializationInfo info, StreamingContext context) : base(info, context) { }
+        protected AnimalNotFoundException(SerializationInfo info, StreamingContext context) : base(info, context) { }
     }
+
     class Program
     {
 
         static void Main(string[] args)
         {
             AnimalContext db = new AnimalContext();
-            db.Animals.Add(new Animal() { Name = "name1", Age = 4, Gender = GenderType.Male, Type = AnimalType.dog, Id = 1 });
+            db.Animals.Add(new Animal() { Name = "sharik", Age = 4, Gender = GenderType.Male, Type = AnimalType.dog, Id = 1 });
             db.SaveChanges();
+            int id = 90;
+            var one = db.Animals.Find(id);
+            try
+            {
+                try
+                {
+                    if (one == null)
+                    {
+                        throw new AnimalNotFoundException("Animal not found!", new Exception("dsdssd"), id);
+                    }
+                }
+                catch (AnimalNotFoundException ae)
+                {
+                    throw;
+                }
+            }
+            catch(Exception e)
+            {
+                Console.Write(e);
+            }
         }
     }
 }
