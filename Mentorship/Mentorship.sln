@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "MentorshipExc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\Attributes.csproj", "{8CA73854-6AB3-479A-A048-E8CCE525DAEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LateBindingWordSaveAs", "LateBindingWordSaveAs\LateBindingWordSaveAs.csproj", "{F634FFBF-ADA1-424D-B94E-2573A1FDBFF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8CA73854-6AB3-479A-A048-E8CCE525DAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CA73854-6AB3-479A-A048-E8CCE525DAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CA73854-6AB3-479A-A048-E8CCE525DAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F634FFBF-ADA1-424D-B94E-2573A1FDBFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F634FFBF-ADA1-424D-B94E-2573A1FDBFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F634FFBF-ADA1-424D-B94E-2573A1FDBFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F634FFBF-ADA1-424D-B94E-2573A1FDBFF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

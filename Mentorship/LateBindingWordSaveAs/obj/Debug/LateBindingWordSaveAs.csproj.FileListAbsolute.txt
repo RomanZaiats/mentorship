@@ -1,0 +1,9 @@
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\LateBindingWordSaveAs\bin\Debug\LateBindingWordSaveAs.exe.config
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\LateBindingWordSaveAs\bin\Debug\LateBindingWordSaveAs.exe
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\LateBindingWordSaveAs\bin\Debug\LateBindingWordSaveAs.pdb
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\LateBindingWordSaveAs\obj\Debug\LateBindingWordSaveAs.csprojResolveAssemblyReference.cache
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\LateBindingWordSaveAs\obj\Debug\LateBindingWordSaveAs.MainForm.resources
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\LateBindingWordSaveAs\obj\Debug\LateBindingWordSaveAs.Properties.Resources.resources
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\LateBindingWordSaveAs\obj\Debug\LateBindingWordSaveAs.csproj.GenerateResource.Cache
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\LateBindingWordSaveAs\obj\Debug\LateBindingWordSaveAs.exe
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\LateBindingWordSaveAs\obj\Debug\LateBindingWordSaveAs.pdb
