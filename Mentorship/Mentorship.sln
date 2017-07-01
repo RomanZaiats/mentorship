@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\At
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LateBindingWordSaveAs", "LateBindingWordSaveAs\LateBindingWordSaveAs.csproj", "{F634FFBF-ADA1-424D-B94E-2573A1FDBFF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "Multithreading\Multithreading.csproj", "{FA1AB200-A632-4DF8-A871-8F7A8B1B8D0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F634FFBF-ADA1-424D-B94E-2573A1FDBFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F634FFBF-ADA1-424D-B94E-2573A1FDBFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F634FFBF-ADA1-424D-B94E-2573A1FDBFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1AB200-A632-4DF8-A871-8F7A8B1B8D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1AB200-A632-4DF8-A871-8F7A8B1B8D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1AB200-A632-4DF8-A871-8F7A8B1B8D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1AB200-A632-4DF8-A871-8F7A8B1B8D0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

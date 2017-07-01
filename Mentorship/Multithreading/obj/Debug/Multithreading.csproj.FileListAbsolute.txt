@@ -1,0 +1,9 @@
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Multithreading\bin\Debug\Multithreading.exe.config
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Multithreading\obj\Debug\Multithreading.csprojResolveAssemblyReference.cache
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Multithreading\obj\Debug\multithreading.MainForm.resources
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Multithreading\obj\Debug\Multithreading.Properties.Resources.resources
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Multithreading\obj\Debug\Multithreading.csproj.GenerateResource.Cache
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Multithreading\bin\Debug\Multithreading.exe
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Multithreading\bin\Debug\Multithreading.pdb
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Multithreading\obj\Debug\Multithreading.exe
+C:\Users\Romax\Documents\GitHub\Mentorship\Mentorship\Multithreading\obj\Debug\Multithreading.pdb
